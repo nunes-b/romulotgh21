@@ -1,6 +1,6 @@
 # 👋 Hello devs, me chamo Rômulo Nunes
-Atualmente estou trabalhando na Geoflow Sistemas🌱<br>
-Estou aprendendo JavaScript, TypeScript, NodeJs & Vuejs.
+Sou Estagiário em Desenvolvimento Web na Geoflow Sistemas🌱<br>
+Estou aprendendo/desenvolvendo JavaScript, TypeScript, NodeJs & Vuejs.
 <br>
 <br>
 <a href="https://www.linkedin.com/in/romulonunesbpeixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
