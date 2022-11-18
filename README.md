@@ -18,6 +18,8 @@ Contato:
 
 
 
+![Snake animation](https://github.com/romulotgh21/romulotgh21/blob/output/github-contribution-grid-snake.svg)
+
 
                         
                         
