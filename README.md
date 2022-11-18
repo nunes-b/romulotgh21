@@ -13,12 +13,11 @@ Contato:
 <br>
 <div>
 <a href="https://github.com/romulotgh21">
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulotgh21&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulotgh21&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
 
 
-![Snake animation](https://github.com/romulotgh21/romulotgh21/blob/output/github-contribution-grid-snake.svg)
 
 
                         
