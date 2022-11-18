@@ -1,15 +1,33 @@
-# 👋 Hello devs, me chamo Rômulo Nunes
+##  Hello devs, me chamo Rômulo Nunes <br> Bem vindo ao meu perfil GitHub 👋
+
 Sou Estagiário em Desenvolvimento Web na Geoflow Sistemas🌱<br>
-Estou aprendendo/desenvolvendo em JavaScript, TypeScript, NodeJs & Vuejs.
+Estou aprendendo/desenvolvendo em JavaScript, TypeScript, NodeJs, React, React Native & VueJs.
+
+Contato:
+<br> <div>  <a href="https://www.linkedin.com/in/romulonunesbpeixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
 <br>
+
+## Tecnologias que utilizo & desenvolvo dia-a-dia <br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
 <br>
-<a href="https://www.linkedin.com/in/romulonunesbpeixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<br> <br>
-## Ferramentas e Tecnologias que fazem parte do meu aprendizado e dia-a-dia.
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<br> <br><br> 
+<div>
+<a href="https://github.com/romulotgh21">
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulotgh21&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+
+
+
+
+                        
+                        
+            
+            
+          
+          
+          
+                 
+
 
 
            
