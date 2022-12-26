@@ -1,7 +1,7 @@
 ##  Hello devs, me chamo Rômulo Nunes <br> Bem vindo ao meu perfil GitHub 👋
 
 Sou Estagiário em Desenvolvimento Web na Geoflow Sistemas🌱<br>
-Estou aprendendo/desenvolvendo em C, JavaScript, TypeScript, NodeJs, React, React Native & VueJs.
+Estou aprendendo/desenvolvendo em C, JavaScript, TypeScript, NodeJS & React.
 
 
 
