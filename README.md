@@ -1,25 +1,27 @@
-##  Hello devs, me chamo Rômulo Nunes <br> Bem vindo ao meu perfil GitHub 👋
-
-Sou Estagiário em Desenvolvimento Web na Geoflow Sistemas🌱<br>
-Estou aprendendo/desenvolvendo em C, JavaScript, TypeScript, NodeJS & React.
-
-
-
-
-## Tecnologias que utilizo & desenvolvo dia-a-dia <br>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-<br>
-
-## Meu contato
-<br> <div>  <a href="https://www.linkedin.com/in/romulonunesbpeixoto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
-<br>
 
 
                         
                         
             
-            
+
+ ## :space_invader: Hello, I'm Rômulo Nunes!
+
+I'm 23 years old, I live in Rio de Janeiro/RJ, I'm passionate about programming and felines! I'm a beginner in the programming universe, official bug hunter, and the more I learn and get angry, the more I love it all! 🖤. Also check my [Linkedin](https://www.linkedin.com/in/romulonunesbpeixoto/).
+
+### > Programming languages I love to work in
+
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "Typescript"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "React"/></code> 
+
+
+### > Technologies and Tools I use for work
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code> 
+
+
+
+
           
           
           
