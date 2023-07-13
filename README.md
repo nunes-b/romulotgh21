@@ -1,5 +1,3 @@
-   
-          
 
  ## 🩹 Hello, I'm Rômulo Nunes!
 
@@ -8,22 +6,20 @@ I'm 24 years old, I live in Rio de Janeiro/RJ, I'm passionate about programming 
 ### $ Programming languages I love to work in
 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JavaScript"/></code>
-<code> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = NODEJS /></code>
-
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title = NodeJs /></code>
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title= "Framework Nodejs Express" /></code>
 
 ### $ Technologies and Tools I use for work
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title  = "GITHUB"/></code>
-<code> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code"/></code>
+<code> <img width ="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title= "Docker"/> </code>
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title  = "Github"/></code>
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title= "Trello" /></code>
 
-
+### $ Programming languages ​​I study          
+<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="shell/bash" /></code>
+<code><img width= "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title= "C" /> </code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title = "MongoDB"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgresSQL" /></code>
           
-          
-          
-                 
-
-
-
-           
-
-
-        
+         
