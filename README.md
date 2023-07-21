@@ -10,11 +10,9 @@ I'm 24 years old, I live in Rio de Janeiro/RJ, I'm passionate about programming 
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" title= "Framework Nodejs Express" /></code>
 
 ### $ Technologies and Tools I use for work
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code"/></code>
 <code> <img width ="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title= "Docker"/> </code>
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" title  = "Github"/></code>
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" title= "Trello" /></code>
 
 ### $ Programming languages ​​I study          
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="shell/bash" /></code>
