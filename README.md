@@ -12,8 +12,7 @@ I live in Rio de Janeiro/RJ, I'm passionate about programming and felines! I'm a
 <code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "Git"/></code>
 
 ### $ Programming languages ​​I study          
-<code> <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="shell/bash" /></code>
-<code><img width= "40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title= "C" /> </code>
+<code> <img width="40px" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" title="Python3"/> </code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgresSQL" /></code>
           
          
