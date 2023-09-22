@@ -1,4 +1,4 @@
-## 🩹 Hello, I'm Rômulo Nunes!
+## 🩹 Hey!! Hoo!!  I'm Rômulo Nunes!
 
 I'm a passionate programming enthusiast based in Rio de Janeiro, RJ. I'm on a journey to become a skilled developer, and I enjoy hunting bugs along the way! 🖤 Explore my [LinkedIn](https://www.linkedin.com/in/romulonunesbpeixoto/).
 
