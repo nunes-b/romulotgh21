@@ -4,6 +4,6 @@
 <h4>Me chamo Rômulo Nunes e...</h4> 
 Se tem uma coisa que eu amo é com certeza solucionar problemas.
 
-<p>Atualmente, trabalho como um <strong>Desenvolvedor Backend</strong> e estou estudando JavaScript/TypeScript, Node.js, TDD, SOLID, Clean Code e Clean Architecture.</p>
+<p>Atualmente, trabalho como um <strong>Desenvolvedor Backend</strong> e estou estudando JavaScript/TypeScript, Node.js,Python, TDD e os princípios de SOLID, Clean Code e Clean Architecture.</p>
 <p align="center">Eu amo esse mundo e vou torná-lo melhor com tecnologia. 🔒
 </p>
