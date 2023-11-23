@@ -15,7 +15,7 @@ I am a perpetually curious individual in the realm of technology. The pursuit of
 ## 📬 Let's Connect!
 
 - 📧 Email: contatornb.peixoto@gmail.com
-- 💼 GitHub: [github.com/romulotgh21](https://github.com/romulotgh21)
+- 💼 Linkedin: [https://www.linkedin.com/in/romulonunesbpeixoto/]([https://github.com/romulotgh21](https://www.linkedin.com/in/romulonunesbpeixoto/))
 
 ## 🚀 Future-Proof Coding
 
